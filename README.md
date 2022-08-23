@@ -1,6 +1,5 @@
 # React-State-Exercise
 
-# React | state   ( exercise solution )
 
 <br>
 
